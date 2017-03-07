@@ -406,7 +406,15 @@ body {
 		height: 100%;
 		margin: 0 auto;
 		width: 100%;
-	}
+		border-radius:50%
+}
+.img-circle {
+    border-radius: 50%;
+}
+
+.img-responsive {
+
+}
 	
 @media (max-width: 991px) {
 	#slide-3 {
