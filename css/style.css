@@ -246,7 +246,7 @@ body {
 
 @media (max-width: 767px) {
 	#slide-1 {
-		background-image: url('../images/bigdata_bg.jpeg')g;
+		background-image: url('../images/bigdata_bg.jpeg');
 	}
 }
 
