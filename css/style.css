@@ -240,11 +240,12 @@ body {
 
 @media (max-width: 991px) {
 	#slide-1 {
-		background-position: -70% 0, 170% 0;
+		background-image: url('../images/bigdata_bg.jpeg');
 	}
 }
 
-@media (max-width: 767px) {
+@media (min-width: 767px) {
+	background-image: url('../images/bigdata_bg.jpeg');
 	#slide-1 {
 		background-image: url('../images/bigdata_bg.jpeg');
 	}
