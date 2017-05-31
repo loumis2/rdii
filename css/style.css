@@ -547,7 +547,7 @@ body {
 .center {
     margin: auto;
     width: 60%;
-    border: 3px solid #ffffff;
+    border: 3px;
     padding: 10px;
     text-align: center;
 }
