@@ -634,12 +634,11 @@ ul.social-icons li a:hover {
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: 100%;
 }
 	
 	#slide-3 .col-12 {
-		display: inline-block;
 		height: 451px;
 		margin: 0;
 		padding: 0;
@@ -648,15 +647,13 @@ ul.social-icons li a:hover {
 
 	#slide-3 a,
 	#slide-3 img {
-		display: inline-block;
 		height: 100%;
 		margin: 0 auto;
 		width: 100%;
-		border-radius:50%
 }
 .img-circle {
     border-radius: 20px;
-    float: center;
+
 }
 
 .img-responsive {
@@ -792,7 +789,6 @@ ul.social-icons li a:hover {
 }
 .center {
     margin: auto;
-    width: 60%;
     border: 3px;
     padding: 10px;
     text-align: center;
@@ -842,7 +838,6 @@ ul.social-icons li a:hover {
 	}
 	
 	#contact-row-4 img {
-		display: block;
 		margin: 0 auto;
 		max-height: 100%;
 		max-width: 100%;
